@@ -1,0 +1,15 @@
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson009\Task 068\bin\Debug\net6.0\Task 068.exe
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson009\Task 068\bin\Debug\net6.0\Task 068.deps.json
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson009\Task 068\bin\Debug\net6.0\Task 068.runtimeconfig.json
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson009\Task 068\bin\Debug\net6.0\Task 068.dll
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson009\Task 068\bin\Debug\net6.0\Task 068.pdb
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson009\Task 068\obj\Debug\net6.0\Task 068.csproj.AssemblyReference.cache
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson009\Task 068\obj\Debug\net6.0\Task 068.GeneratedMSBuildEditorConfig.editorconfig
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson009\Task 068\obj\Debug\net6.0\Task 068.AssemblyInfoInputs.cache
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson009\Task 068\obj\Debug\net6.0\Task 068.AssemblyInfo.cs
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson009\Task 068\obj\Debug\net6.0\Task 068.csproj.CoreCompileInputs.cache
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson009\Task 068\obj\Debug\net6.0\Task 068.dll
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson009\Task 068\obj\Debug\net6.0\refint\Task 068.dll
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson009\Task 068\obj\Debug\net6.0\Task 068.pdb
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson009\Task 068\obj\Debug\net6.0\Task 068.genruntimeconfig.cache
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson009\Task 068\obj\Debug\net6.0\ref\Task 068.dll
